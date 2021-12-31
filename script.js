@@ -1,6 +1,6 @@
 let chars, particles, canvas, ctx, w, h, current;
 let duration = 5000;
-let str = ['HAPPY', 'NEW', 'YEAR' , '2022','To','ALL THE MEMBER OF','ALL STAR'];
+let str = ['HAPPY', 'NEW', 'YEAR' , '2022','To','ALL', 'THE MEMBER','OF','ALL STAR'];
 
 init();
 resize();
